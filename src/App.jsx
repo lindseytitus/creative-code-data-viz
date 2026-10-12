@@ -8,7 +8,8 @@ import {
 
 const SECONDS_PER_YEAR = 365 * 24 * 60 * 60
 const ELON_MUSK = 'Elon Musk'
-const MEDIAN_WORKER_CATEGORY = 'Median US worker salary in 2025'
+const MEDIAN_WORKER_CATEGORY = 'The median US worker salary in 2025'
+const SOCIAL_SECURITY_CATEGORY = 'The 2025 Social Security wage ceiling'
 const MEDIAN_WORKER_SALARY_FALLBACK = 62608
 const SOCIAL_SECURITY_WAGE_MAX_FALLBACK = 176100
 
@@ -49,13 +50,8 @@ const sourceHost = (url) => {
   }
 }
 
-const formatMilestoneTitle = (category) => {
-  const trimmed = String(category ?? '')
-    .replace(/^The cost of\s+/i, '')
-    .replace(/^The\s+/i, '')
-  if (!trimmed) return category
-  return trimmed.charAt(0).toUpperCase() + trimmed.slice(1)
-}
+/** Pass through category text so "The cost of …" labels stay intact. */
+const formatMilestoneTitle = (category) => String(category ?? '').trim()
 
 function ExpenseFeed({ eyebrow, emptyMessage, notifications }) {
   const ordered = [...notifications].sort((left, right) => right.valueUsd - left.valueUsd)
@@ -119,7 +115,7 @@ function DashboardPage({
   workerNotifications,
 }) {
   const socialSecurityThreshold =
-    expenseData.expenses.find((item) => item.category === 'Social Security wage max')?.value_usd ??
+    expenseData.expenses.find((item) => item.category === SOCIAL_SECURITY_CATEGORY)?.value_usd ??
     SOCIAL_SECURITY_WAGE_MAX_FALLBACK
   const socialSecurityTaxSavings = getSocialSecurityTaxSavings(totalEarned, socialSecurityThreshold)
   const socialSecurityElapsedLabel = formatDuration(socialSecurityThreshold / payPerSecond)
