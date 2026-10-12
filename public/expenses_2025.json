@@ -1,0 +1,156 @@
+{
+  "title": "2025 expense comparisons",
+  "year": 2025,
+  "expenses": [
+    {
+      "category": "The median US worker salary in 2025",
+      "value_usd": 62608,
+      "value_label": "$62,608",
+      "source": "https://www.bls.gov/opub/ted/2026/median-weekly-earnings-were-1204-in-2025.html"
+    },
+    {
+      "category": "The cost of a singular banana",
+      "value_usd": 0.28,
+      "value_label": "$0.28",
+      "source": "https://shop.lowesfoods.com/products/banana-bananas-are-sold-individually-avg-0-4lb-/1450095"
+    },
+    {
+      "category": "The cost of the Costco hot dog and soda combo",
+      "value_usd": 1.50,
+      "value_label": "$1.50",
+      "source": "https://costco.com"
+    },
+    {
+      "category": "The cost of a gallon of gas on October 11, 2026",
+      "value_usd": 4.35,
+      "value_label": "$4.35",
+      "source": "https://gasprices.aaa.com/"
+    },
+    {
+      "category": "The cost of a pound of ground beef",
+      "value_usd": 6.92,
+      "value_label": "$6.92",
+      "source": "https://fred.stlouisfed.org/series/apu0000703112"
+    },
+    {
+      "category": "The cost of a pumpkin spice latte at Starbucks",
+      "value_usd": 7.65,
+      "value_label": "$7.65",
+      "source": "https://www.grubhub.com/restaurant/starbucks-3033-arapahoe-ave-boulder/8386592"
+    },
+    {
+      "category": "One month of a standard Netflix subscription",
+      "value_usd": 19.99,
+      "value_label": "$19.99",
+      "source": "https://help.netflix.com/en/node/24926"
+    },
+    {
+      "category": "The median cost of a month's rent in 2025",
+      "value_usd": 1696,
+      "value_label": "$1,696",
+      "source": "https://www.realtor.com/research/october-2025-rent/"
+    },
+    {
+      "category": "The average cost of a used car",
+      "value_usd": 26043,
+      "value_label": "$26,043",
+      "source": "https://www.kbb.com/car-news/average-used-car-price-tops-26000/"
+    },
+    {
+      "category": "The cost of a new standard package Tesla model Y",
+      "value_usd": 39990,
+      "value_label": "$39,990",
+      "source": "https://www.tesla.com/compare"
+    },
+    {
+      "category": "The median 401k balance across all age groups of US workers",
+      "value_usd": 44115,
+      "value_label": "$44,115",
+      "source": "https://randallwealthgroup.com/average-401k-balance-by-age/"
+    },
+    {
+      "category": "The cost of an ATLAS graduate degree at CU Boulder (in-state, 4 semesters)",
+      "value_usd": 47791,
+      "value_label": "$47,791",
+      "source": "https://www.colorado.edu/bursar/costs/graduate-costs/professional-masters/professional-masters-engineering"
+    },
+    {
+      "category": "The cost of an ATLAS graduate degree at CU Boulder (out-of-state, 4 semesters)",
+      "value_usd": 60463,
+      "value_label": "$60,463",
+      "source": "https://www.colorado.edu/bursar/costs/graduate-costs/professional-masters/professional-masters-engineering"
+    },
+    {
+      "category": "Social Security wage max",
+      "value_usd": 176100,
+      "value_label": "$176,100",
+      "source": "https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    {
+      "category": "The median house cost in 2025",
+      "value_usd": 416100,
+      "value_label": "$416,100",
+      "source": "https://fred.stlouisfed.org/series/MSPUS"
+    },
+    {
+      "category": "The median house cost of a house in Boulder, CO",
+      "value_usd": 975000,
+      "value_label": "$975,000",
+      "source": "https://www.redfin.com/city/2025/CO/Boulder/housing-market"
+    },
+    {
+      "category": "The average lifetime income of a US worker",
+      "value_usd": 1848750,
+      "value_label": "$1,848,750",
+      "source": "https://www.ssa.gov/policy/docs/research-summaries/education-earnings.html"
+    },
+    {
+      "category": "The lifetime cost of The American Dream",
+      "value_usd": 5000000,
+      "value_label": "$5,000,000",
+      "source": "https://www.investopedia.com/2025-american-dream-costs-more-than-usd5-million-11796727"
+    },
+    {
+      "category": "The average cost of raising a child to age 18",
+      "value_usd": 310000,
+      "value_label": "$310,000",
+      "source": "https://www.usda.gov/media/blog/2025/01/"
+    },
+    {
+      "category": "The average cost of a wedding in The US",
+      "value_usd": 34200,
+      "value_label": "$34,200",
+      "source": "https://www.Theknot.com/content/average-wedding-cost"
+    },
+    {
+      "category": "School lunch debt in 2025",
+      "value_usd": 25288737,
+      "value_label": "$25,288,737",
+      "source": "https://schoolnutrition.org/about-school-meals/school-meal-statistics/"
+    },
+    {
+      "category": "Cancer costs in The USA",
+      "value_usd": 21000000000,
+      "value_label": "$21B",
+      "source": "https://www.cancer.org/content/dam/cancer-org/research/cancer-facts-and-statistics/annual-cancer-facts-and-figures/2025/2025-cancer-facts-and-figures-acs.pdf"
+    },
+    {
+      "category": "Ending world hunger",
+      "value_usd": 93000000000,
+      "value_label": "$93B",
+      "source": "https://news.un.org/en/story/2025/11/1166397"
+    },
+    {
+      "category": "Ending hunger in The US",
+      "value_usd": 25000000000,
+      "value_label": "$25B",
+      "source": "https://www.globalgiving.org/learn/how-much-would-it-cost-to-end-world-hunger/"
+    },
+    {
+      "category": "Establishing free education in The US",
+      "value_usd": 58200000000,
+      "value_label": "$58.2B",
+      "source": "https://cew.georgetown.edu/cew-reports/freecollegecost/"
+    }
+  ]
+}

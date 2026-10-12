@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&display=swap');
+
+@font-face {
+  font-family: 'Tesla';
+  src: url('/ceo-pay-dashboard/fonts/TESLA.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  --black: #050505;
+  --background: #0e0d0c;
+  --background-elevated: #161412;
+  --surface: #1c1a18;
+  --surface-raised: #221f1c;
+
+  --border: #2a2724;
+  --border-strong: #3f3a35;
+
+  --text: #f3efe8;
+  --text-secondary: #a39a8f;
+  --text-muted: #6e665c;
+
+  --accent: #e31937;
+  --accent-deep: #b01028;
+  --accent-soft: color-mix(in srgb, var(--accent) 18%, transparent);
+  --silver: #c9c2b8;
+  --silver-soft: color-mix(in srgb, var(--silver) 14%, transparent);
+
+  --link: #d4cdc3;
+  --link-hover: var(--text);
+
+  --panel-accent: var(--accent);
+  --panel-accent-soft: var(--accent-soft);
+
+  --font-sans: 'Space Grotesk', sans-serif;
+  --font-display: 'Tesla', 'Space Grotesk', sans-serif;
+  /* shortcut: monospace for stable digit width; switch if Space Grotesk with tnum is added */
+  --font-mono: ui-monospace, 'Cascadia Mono', 'Segoe UI Mono', Menlo, monospace;
+
+  --radius-panel: 0;
+  --radius-card: 0;
+}

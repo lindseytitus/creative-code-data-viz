@@ -1,0 +1,816 @@
+{
+  "source": "https://aflcio.org/paywatch/highest-paid-ceos",
+  "title": "Highest-Paid CEOs - 2026 (AFL-CIO Executive Paywatch)",
+  "scope": "Top 100 by CEO pay (pages 1-5 of 196)",
+  "summary": {
+    "sp500_avg_pay_ratio_2024": "285-to-1",
+    "sp500_avg_pay_ratio_2025": "312-to-1",
+    "sp500_avg_ceo_pay_2024_usd": 18900000,
+    "sp500_avg_ceo_pay_2025_usd": 22800000,
+    "sp500_avg_ceo_pay_change_pct": 21,
+    "note": "Averages exclude Elon Musk's 2.5 million-to-1 pay ratio at Tesla."
+  },
+  "count": 100,
+  "ceos": [
+    {
+      "rank": 1,
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "ceo": "Elon Musk",
+      "year": 2025,
+      "ceo_pay_usd": 158359009867
+    },
+    {
+      "rank": 2,
+      "ticker": "WELL",
+      "company": "Welltower",
+      "ceo": "Shankh Mitra",
+      "year": 2025,
+      "ceo_pay_usd": 821090355
+    },
+    {
+      "rank": 3,
+      "ticker": "OPEN",
+      "company": "Opendoor Technologies",
+      "ceo": "Kaz Nejatian",
+      "year": 2025,
+      "ceo_pay_usd": 741137105
+    },
+    {
+      "rank": 4,
+      "ticker": "W",
+      "company": "Wayfair",
+      "ceo": "Niraj Shah",
+      "year": 2025,
+      "ceo_pay_usd": 280847068
+    },
+    {
+      "rank": 5,
+      "ticker": "SMMT",
+      "company": "Summit Therapeutics",
+      "ceo": "Mahkam Zanganeh",
+      "year": 2025,
+      "ceo_pay_usd": 246047279
+    },
+    {
+      "rank": 6,
+      "ticker": "VEEV",
+      "company": "Veeva Systems",
+      "ceo": "Peter Gassner",
+      "year": 2026,
+      "ceo_pay_usd": 172436133
+    },
+    {
+      "rank": 7,
+      "ticker": "ROIV",
+      "company": "Roivant Sciences",
+      "ceo": "Matthew Gline",
+      "year": 2024,
+      "ceo_pay_usd": 163293744
+    },
+    {
+      "rank": 8,
+      "ticker": "RBRK",
+      "company": "Rubrik",
+      "ceo": "Bipul Sinha",
+      "year": 2025,
+      "ceo_pay_usd": 140018608
+    },
+    {
+      "rank": 9,
+      "ticker": "TTAN",
+      "company": "ServiceTitan",
+      "ceo": "Ara Mahdessian",
+      "year": 2025,
+      "ceo_pay_usd": 133409208
+    },
+    {
+      "rank": 10,
+      "ticker": "BX",
+      "company": "Blackstone",
+      "ceo": "Stephen Schwarzman",
+      "year": 2025,
+      "ceo_pay_usd": 125641824
+    },
+    {
+      "rank": 11,
+      "ticker": "GS",
+      "company": "Goldman Sachs Group",
+      "ceo": "David Solomon",
+      "year": 2025,
+      "ceo_pay_usd": 118891684
+    },
+    {
+      "rank": 12,
+      "ticker": "SNOW",
+      "company": "Snowflake",
+      "ceo": "Sridhar Ramaswamy",
+      "year": 2025,
+      "ceo_pay_usd": 101325374
+    },
+    {
+      "rank": 13,
+      "ticker": "PANW",
+      "company": "Palo Alto Networks",
+      "ceo": "Nikesh Arora",
+      "year": 2025,
+      "ceo_pay_usd": 99736336
+    },
+    {
+      "rank": 14,
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "ceo": "Satya Nadella",
+      "year": 2025,
+      "ceo_pay_usd": 96496790
+    },
+    {
+      "rank": 15,
+      "ticker": "C",
+      "company": "Citigroup",
+      "ceo": "Jane Fraser",
+      "year": 2025,
+      "ceo_pay_usd": 95757800
+    },
+    {
+      "rank": 16,
+      "ticker": "WFC",
+      "company": "Wells Fargo & Company",
+      "ceo": "Charles Scharf",
+      "year": 2025,
+      "ceo_pay_usd": 94522642
+    },
+    {
+      "rank": 17,
+      "ticker": "INTC",
+      "company": "Intel",
+      "ceo": "Lip-Bu Tan",
+      "year": 2025,
+      "ceo_pay_usd": 92990900
+    },
+    {
+      "rank": 18,
+      "ticker": "IONQ",
+      "company": "IonQ",
+      "ceo": "Niccolo de Masi",
+      "year": 2025,
+      "ceo_pay_usd": 89581725
+    },
+    {
+      "rank": 19,
+      "ticker": "KKR",
+      "company": "KKR",
+      "ceo": "Joseph Bae",
+      "year": 2025,
+      "ceo_pay_usd": 84270205
+    },
+    {
+      "rank": 20,
+      "ticker": "RIOT",
+      "company": "Riot Platforms",
+      "ceo": "Jason Les",
+      "year": 2024,
+      "ceo_pay_usd": 83532328
+    },
+    {
+      "rank": 21,
+      "ticker": "BNY",
+      "company": "Bank of New York Mellon",
+      "ceo": "Robin Vince",
+      "year": 2025,
+      "ceo_pay_usd": 83472970
+    },
+    {
+      "rank": 22,
+      "ticker": "HLNE",
+      "company": "Hamilton Lane",
+      "ceo": "Erik Hirsch",
+      "year": 2025,
+      "ceo_pay_usd": 80221476
+    },
+    {
+      "rank": 23,
+      "ticker": "TMO",
+      "company": "Thermo Fisher Scientific",
+      "ceo": "Marc Casper",
+      "year": 2025,
+      "ceo_pay_usd": 79923350
+    },
+    {
+      "rank": 24,
+      "ticker": "PCOR",
+      "company": "Procore Technologies",
+      "ceo": "Ajei Gopal",
+      "year": 2025,
+      "ceo_pay_usd": 77416665
+    },
+    {
+      "rank": 25,
+      "ticker": "SOC",
+      "company": "Sable Offshore",
+      "ceo": "James Flores",
+      "year": 2025,
+      "ceo_pay_usd": 75943061
+    },
+    {
+      "rank": 26,
+      "ticker": "AAPL",
+      "company": "Apple",
+      "ceo": "Tim Cook",
+      "year": 2025,
+      "ceo_pay_usd": 74294811
+    },
+    {
+      "rank": 27,
+      "ticker": "AON",
+      "company": "Aon",
+      "ceo": "Gregory Case",
+      "year": 2025,
+      "ceo_pay_usd": 73742639
+    },
+    {
+      "rank": 28,
+      "ticker": "IREN",
+      "company": "IREN",
+      "ceo": "William Roberts",
+      "year": 2025,
+      "ceo_pay_usd": 72647744
+    },
+    {
+      "rank": 29,
+      "ticker": "HWM",
+      "company": "Howmet Aerospace",
+      "ceo": "John Plant",
+      "year": 2025,
+      "ceo_pay_usd": 70547718
+    },
+    {
+      "rank": 30,
+      "ticker": "FISV",
+      "company": "Fiserv",
+      "ceo": "Michael Lyons",
+      "year": 2025,
+      "ceo_pay_usd": 70341992
+    },
+    {
+      "rank": 31,
+      "ticker": "OMC",
+      "company": "Omnicom Group",
+      "ceo": "John Wren",
+      "year": 2025,
+      "ceo_pay_usd": 69865846
+    },
+    {
+      "rank": 32,
+      "ticker": "LINE",
+      "company": "Lineage",
+      "ceo": "Greg Lehmkuhl",
+      "year": 2024,
+      "ceo_pay_usd": 69341442
+    },
+    {
+      "rank": 33,
+      "ticker": "ARES",
+      "company": "Ares Management",
+      "ceo": "Michael J Arougheti",
+      "year": 2025,
+      "ceo_pay_usd": 68279532
+    },
+    {
+      "rank": 34,
+      "ticker": "TKO",
+      "company": "TKO Group Holdings",
+      "ceo": "Ariel Emanuel",
+      "year": 2025,
+      "ceo_pay_usd": 67361782
+    },
+    {
+      "rank": 35,
+      "ticker": "COF",
+      "company": "Capital One Financial",
+      "ceo": "Richard Fairbank",
+      "year": 2025,
+      "ceo_pay_usd": 64971137
+    },
+    {
+      "rank": 36,
+      "ticker": "PSKY",
+      "company": "Paramount Skydance",
+      "ceo": "David Ellison",
+      "year": 2025,
+      "ceo_pay_usd": 63211569
+    },
+    {
+      "rank": 37,
+      "ticker": "CACC",
+      "company": "Credit Acceptance",
+      "ceo": "Vinayak Hegde",
+      "year": 2025,
+      "ceo_pay_usd": 62567647
+    },
+    {
+      "rank": 38,
+      "ticker": "UNH",
+      "company": "UnitedHealth Group",
+      "ceo": "Stephen Hemsley",
+      "year": 2025,
+      "ceo_pay_usd": 60938062
+    },
+    {
+      "rank": 39,
+      "ticker": "RDZN",
+      "company": "Roadzen",
+      "ceo": "Rohan Malhotra",
+      "year": 2024,
+      "ceo_pay_usd": 60936011
+    },
+    {
+      "rank": 40,
+      "ticker": "CDNS",
+      "company": "Cadence Design Systems",
+      "ceo": "Anirudh Devgan",
+      "year": 2025,
+      "ceo_pay_usd": 56683576
+    },
+    {
+      "rank": 41,
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices",
+      "ceo": "Lisa Su",
+      "year": 2025,
+      "ceo_pay_usd": 55161779
+    },
+    {
+      "rank": 42,
+      "ticker": "CRM",
+      "company": "Salesforce",
+      "ceo": "Marc Benioff",
+      "year": 2026,
+      "ceo_pay_usd": 55074656
+    },
+    {
+      "rank": 43,
+      "ticker": "NFLX",
+      "company": "Netflix",
+      "ceo": "Ted Sarandos",
+      "year": 2025,
+      "ceo_pay_usd": 53905972
+    },
+    {
+      "rank": 44,
+      "ticker": "RKT",
+      "company": "Rocket Companies",
+      "ceo": "Varun Krishna",
+      "year": 2025,
+      "ceo_pay_usd": 52889799
+    },
+    {
+      "rank": 45,
+      "ticker": "CSCO",
+      "company": "Cisco Systems",
+      "ceo": "Charles Robbins",
+      "year": 2025,
+      "ceo_pay_usd": 52838751
+    },
+    {
+      "rank": 46,
+      "ticker": "NOW",
+      "company": "ServiceNow",
+      "ceo": "William McDermott",
+      "year": 2025,
+      "ceo_pay_usd": 51550957
+    },
+    {
+      "rank": 47,
+      "ticker": "ADBE",
+      "company": "Adobe",
+      "ceo": "Shantanu Narayen",
+      "year": 2025,
+      "ceo_pay_usd": 51173935
+    },
+    {
+      "rank": 48,
+      "ticker": "SLNO",
+      "company": "Soleno Therapeutics",
+      "ceo": "Anish Bhatnagar",
+      "year": 2024,
+      "ceo_pay_usd": 51160430
+    },
+    {
+      "rank": 49,
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "ceo": "Jen-Hsun Huang",
+      "year": 2026,
+      "ceo_pay_usd": 49866251
+    },
+    {
+      "rank": 50,
+      "ticker": "EXAS",
+      "company": "Exact Sciences",
+      "ceo": "Kevin Conroy",
+      "year": 2025,
+      "ceo_pay_usd": 49521060
+    },
+    {
+      "rank": 51,
+      "ticker": "MTCH",
+      "company": "Match Group",
+      "ceo": "Spencer Rascoff",
+      "year": 2025,
+      "ceo_pay_usd": 47014253
+    },
+    {
+      "rank": 52,
+      "ticker": "AXP",
+      "company": "American Express",
+      "ceo": "S.J. Squeri",
+      "year": 2025,
+      "ceo_pay_usd": 46239805
+    },
+    {
+      "rank": 53,
+      "ticker": "SGI",
+      "company": "Somnigroup International",
+      "ceo": "Scott Thompson",
+      "year": 2025,
+      "ceo_pay_usd": 45872369
+    },
+    {
+      "rank": 54,
+      "ticker": "DIS",
+      "company": "The Walt Disney Company",
+      "ceo": "Robert Iger",
+      "year": 2025,
+      "ceo_pay_usd": 45842574
+    },
+    {
+      "rank": 55,
+      "ticker": "GE",
+      "company": "General Electric",
+      "ceo": "Lawrence Culp",
+      "year": 2025,
+      "ceo_pay_usd": 45616160
+    },
+    {
+      "rank": 56,
+      "ticker": "CLSK",
+      "company": "CleanSpark",
+      "ceo": "Matthew Schultz",
+      "year": 2025,
+      "ceo_pay_usd": 44901507
+    },
+    {
+      "rank": 57,
+      "ticker": "THC",
+      "company": "Tenet Healthcare",
+      "ceo": "Saum Sutaria",
+      "year": 2025,
+      "ceo_pay_usd": 43108969
+    },
+    {
+      "rank": 58,
+      "ticker": "CXM",
+      "company": "Sprinklr",
+      "ceo": "Rory Read",
+      "year": 2025,
+      "ceo_pay_usd": 41970485
+    },
+    {
+      "rank": 59,
+      "ticker": "TEM",
+      "company": "Tempus AI",
+      "ceo": "Eric Lefkofsky",
+      "year": 2025,
+      "ceo_pay_usd": 41495833
+    },
+    {
+      "rank": 60,
+      "ticker": "JPM",
+      "company": "JPMorgan Chase",
+      "ceo": "James Dimon",
+      "year": 2025,
+      "ceo_pay_usd": 40632724
+    },
+    {
+      "rank": 61,
+      "ticker": "NXST",
+      "company": "Nexstar Media Group",
+      "ceo": "Perry Sook",
+      "year": 2025,
+      "ceo_pay_usd": 39509740
+    },
+    {
+      "rank": 62,
+      "ticker": "COUR",
+      "company": "Coursera",
+      "ceo": "Gregory Hart",
+      "year": 2025,
+      "ceo_pay_usd": 39387371
+    },
+    {
+      "rank": 63,
+      "ticker": "FWONA",
+      "company": "Liberty Media",
+      "ceo": "Derek Chang",
+      "year": 2025,
+      "ceo_pay_usd": 39339990
+    },
+    {
+      "rank": 64,
+      "ticker": "PINS",
+      "company": "Pinterest",
+      "ceo": "Bill Ready",
+      "year": 2025,
+      "ceo_pay_usd": 39312010
+    },
+    {
+      "rank": 65,
+      "ticker": "IBM",
+      "company": "International Business Machines",
+      "ceo": "Krishna",
+      "year": 2025,
+      "ceo_pay_usd": 37989685
+    },
+    {
+      "rank": 66,
+      "ticker": "BLK",
+      "company": "BlackRock",
+      "ceo": "Laurence Fink",
+      "year": 2025,
+      "ceo_pay_usd": 37749569
+    },
+    {
+      "rank": 67,
+      "ticker": "LBTYA",
+      "company": "Liberty Global",
+      "ceo": "Michael Fries",
+      "year": 2025,
+      "ceo_pay_usd": 37717946
+    },
+    {
+      "rank": 68,
+      "ticker": "LASR",
+      "company": "nLight",
+      "ceo": "Scott Keeney",
+      "year": 2025,
+      "ceo_pay_usd": 37333189
+    },
+    {
+      "rank": 69,
+      "ticker": "MS",
+      "company": "Morgan Stanley",
+      "ceo": "Edward Pick",
+      "year": 2025,
+      "ceo_pay_usd": 37187657
+    },
+    {
+      "rank": 70,
+      "ticker": "WAY",
+      "company": "Waystar Holding",
+      "ceo": "Matthew Hawkins",
+      "year": 2025,
+      "ceo_pay_usd": 37124319
+    },
+    {
+      "rank": 71,
+      "ticker": "INTU",
+      "company": "Intuit",
+      "ceo": "Sasan Goodarzi",
+      "year": 2025,
+      "ceo_pay_usd": 36845552
+    },
+    {
+      "rank": 72,
+      "ticker": "LLY",
+      "company": "Eli Lilly",
+      "ceo": "David Ricks",
+      "year": 2025,
+      "ceo_pay_usd": 36698337
+    },
+    {
+      "rank": 73,
+      "ticker": "AEP",
+      "company": "American Electric Power",
+      "ceo": "William Fehrman",
+      "year": 2025,
+      "ceo_pay_usd": 36601524
+    },
+    {
+      "rank": 74,
+      "ticker": "CSGP",
+      "company": "CoStar Group",
+      "ceo": "Andrew Florance",
+      "year": 2025,
+      "ceo_pay_usd": 36431936
+    },
+    {
+      "rank": 75,
+      "ticker": "FICO",
+      "company": "Fair Isaac",
+      "ceo": "William Lansing",
+      "year": 2025,
+      "ceo_pay_usd": 36045267
+    },
+    {
+      "rank": 76,
+      "ticker": "UBER",
+      "company": "Uber Technologies",
+      "ceo": "Dara Khosrowshahi",
+      "year": 2025,
+      "ceo_pay_usd": 35595826
+    },
+    {
+      "rank": 77,
+      "ticker": "TMUS",
+      "company": "T-Mobile US",
+      "ceo": "Srinivasan Gopalan",
+      "year": 2025,
+      "ceo_pay_usd": 35439421
+    },
+    {
+      "rank": 78,
+      "ticker": "MA",
+      "company": "Mastercard",
+      "ceo": "Michael Miebach",
+      "year": 2025,
+      "ceo_pay_usd": 35422518
+    },
+    {
+      "rank": 79,
+      "ticker": "BKNG",
+      "company": "Booking Holdings",
+      "ceo": "Glenn Fogel",
+      "year": 2025,
+      "ceo_pay_usd": 35418102
+    },
+    {
+      "rank": 80,
+      "ticker": "WING",
+      "company": "Wingstop",
+      "ceo": "Michael Skipworth",
+      "year": 2025,
+      "ceo_pay_usd": 35288595
+    },
+    {
+      "rank": 81,
+      "ticker": "CRWD",
+      "company": "CrowdStrike Holdings",
+      "ceo": "George Kurtz",
+      "year": 2025,
+      "ceo_pay_usd": 35195300
+    },
+    {
+      "rank": 82,
+      "ticker": "CMCSA",
+      "company": "Comcast",
+      "ceo": "Brian Roberts",
+      "year": 2025,
+      "ceo_pay_usd": 35148413
+    },
+    {
+      "rank": 83,
+      "ticker": "JHG",
+      "company": "Janus Henderson Group",
+      "ceo": "Ali Dibadj",
+      "year": 2025,
+      "ceo_pay_usd": 35038727
+    },
+    {
+      "rank": 84,
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "ceo": "Hock Tan",
+      "year": 2025,
+      "ceo_pay_usd": 35034926
+    },
+    {
+      "rank": 85,
+      "ticker": "TSN",
+      "company": "Tyson Foods",
+      "ceo": "Donnie King",
+      "year": 2025,
+      "ceo_pay_usd": 34469569
+    },
+    {
+      "rank": 86,
+      "ticker": "MSI",
+      "company": "Motorola Solutions",
+      "ceo": "Gregory Brown",
+      "year": 2025,
+      "ceo_pay_usd": 34453481
+    },
+    {
+      "rank": 87,
+      "ticker": "AN",
+      "company": "Autonation",
+      "ceo": "Michael Manley",
+      "year": 2025,
+      "ceo_pay_usd": 34391069
+    },
+    {
+      "rank": 88,
+      "ticker": "VZ",
+      "company": "Verizon Communications",
+      "ceo": "Daniel Schulman",
+      "year": 2025,
+      "ceo_pay_usd": 34311016
+    },
+    {
+      "rank": 89,
+      "ticker": "VLO",
+      "company": "Valero Energy",
+      "ceo": "Lane Riggs",
+      "year": 2025,
+      "ceo_pay_usd": 34228523
+    },
+    {
+      "rank": 90,
+      "ticker": "SEMR",
+      "company": "SEMrush Holdings",
+      "ceo": "William Wagner",
+      "year": 2025,
+      "ceo_pay_usd": 33851506
+    },
+    {
+      "rank": 91,
+      "ticker": "BAC",
+      "company": "Bank of America",
+      "ceo": "Brian Moynihan",
+      "year": 2025,
+      "ceo_pay_usd": 33711521
+    },
+    {
+      "rank": 92,
+      "ticker": "MSCI",
+      "company": "MSCI",
+      "ceo": "Henry Fernandez",
+      "year": 2025,
+      "ceo_pay_usd": 33320590
+    },
+    {
+      "rank": 93,
+      "ticker": "SRRK",
+      "company": "Scholar Rock Holding",
+      "ceo": "David Hallal",
+      "year": 2025,
+      "ceo_pay_usd": 33300927
+    },
+    {
+      "rank": 94,
+      "ticker": "GTM",
+      "company": "ZoomInfo Technologies",
+      "ceo": "Henry Schuck",
+      "year": 2025,
+      "ceo_pay_usd": 33297747
+    },
+    {
+      "rank": 95,
+      "ticker": "WSM",
+      "company": "Williams-Sonoma",
+      "ceo": "Laura Alber",
+      "year": 2025,
+      "ceo_pay_usd": 33297422
+    },
+    {
+      "rank": 96,
+      "ticker": "EXEL",
+      "company": "Exelixis",
+      "ceo": "Michael Morrissey",
+      "year": 2025,
+      "ceo_pay_usd": 33239183
+    },
+    {
+      "rank": 97,
+      "ticker": "CB",
+      "company": "Chubb",
+      "ceo": "Evan Greenberg",
+      "year": 2025,
+      "ceo_pay_usd": 33180582
+    },
+    {
+      "rank": 98,
+      "ticker": "XOM",
+      "company": "Exxon Mobil",
+      "ceo": "D.W. Woods",
+      "year": 2025,
+      "ceo_pay_usd": 32998628
+    },
+    {
+      "rank": 99,
+      "ticker": "FOXA",
+      "company": "Fox Corporation",
+      "ceo": "Lachlan Murdoch",
+      "year": 2025,
+      "ceo_pay_usd": 32980954
+    },
+    {
+      "rank": 100,
+      "ticker": "ANSS",
+      "company": "Ansys",
+      "ceo": "Ajei Gopal",
+      "year": 2024,
+      "ceo_pay_usd": 32810655
+    }
+  ]
+}
