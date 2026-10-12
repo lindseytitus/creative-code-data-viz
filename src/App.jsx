@@ -338,7 +338,7 @@ function App() {
 
       <div className="page-lede">
         <p className="page-description">
-          In 2025 Elon Musk received a compensation package worth $158,359,009,867 from Tesla.
+          In 2025 Elon Musk was awarded a compensation package worth $158,359,009,867 from Tesla.
         </p>
         <p className="page-description">
           Watch how that compares to the median salary of a US worker.
