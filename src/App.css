@@ -186,6 +186,11 @@ h2 {
   padding-left: 1.75rem;
 }
 
+.panel--executive .payments-header h2 {
+  font-family: var(--font-display);
+  letter-spacing: 0.02em;
+}
+
 .panel--executive .payments-header h2::after,
 .panel--worker .payments-header h2::after {
   content: '';

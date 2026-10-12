@@ -160,7 +160,7 @@ function DashboardPage({
               <span className="stat-label">Social security tax avoided</span>
               <strong>{formatCurrency(socialSecurityTaxSavings)}</strong>
               <p className="stat-note">
-                Social Security payroll tax only applies to wages up to{' '}
+                Social Security payroll tax only applies to wages up to the 2025 ceiling of{' '}
                 {formatCurrency(socialSecurityThreshold)} a year. He passed that cap in{' '}
                 {socialSecurityElapsedLabel}, and every dollar after that avoids the 12.4% tax.
               </p>
@@ -206,8 +206,9 @@ function DashboardPage({
               <span className="stat-label">Social security tax avoided</span>
               <strong>{formatCurrency(0)}</strong>
               <p className="stat-note">
-                The median worker never reaches the {formatCurrency(socialSecurityThreshold)} Social
-                Security wage max. They pay into the system throughout their working life.
+                The median worker never reaches the 2025 Social Security wage ceiling of{' '}
+                {formatCurrency(socialSecurityThreshold)}. They pay into the system throughout their
+                working life.
               </p>
             </div>
           )}
