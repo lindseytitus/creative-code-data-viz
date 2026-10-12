@@ -324,7 +324,9 @@ function App() {
   return (
     <main className="app-shell">
       <header className="page-header">
-        <h1 className="page-header-title">Wealth watch</h1>
+        <h1 className="page-header-title">
+          Weal<span className="kern-lt">t</span>h watch
+        </h1>
         <img
           className="page-header-figure"
           src={`${import.meta.env.BASE_URL}elon-nazi.png`}

@@ -28,7 +28,7 @@
   flex-shrink: 0;
   width: 100vw;
   margin: -44px calc(50% - 50vw) 0;
-  padding: 2.5rem 24px 0;
+  padding: 2.5rem max(24px, calc((100vw - 1180px) / 2 + 24px)) 0;
   min-height: min(52vw, 22rem);
   overflow: hidden;
   background: var(--black);
@@ -48,6 +48,10 @@
   text-transform: uppercase;
   color: var(--text);
   animation: masthead-in 0.9s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+.page-header-title .kern-lt {
+  margin-left: -0.2em;
 }
 
 .page-header-figure {
@@ -515,7 +519,7 @@ h2 {
   }
 
   .page-header {
-    padding-left: 16px;
-    padding-right: 16px;
+    padding-left: max(16px, calc((100vw - 1180px) / 2 + 16px));
+    padding-right: max(16px, calc((100vw - 1180px) / 2 + 16px));
   }
 }

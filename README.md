@@ -2,6 +2,8 @@
 
 React + Vite app. Live comparison of Elon Musk’s 2025 Tesla pay vs the median US worker salary.
 
+![Wealth watch screenshot](public/Wealth-watch.png)
+
 ## What it does
 
 Annual pay becomes earnings per second. Two tickers run side by side:
